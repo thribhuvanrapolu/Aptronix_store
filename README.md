@@ -1,5 +1,5 @@
 # Aptronix_store
 Aptronix store done using java 
 
-built during 10th class
+built during 10th class for computer science assignment
 
